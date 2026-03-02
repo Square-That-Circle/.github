@@ -1,4 +1,7 @@
-# Square that Circle
+ <img width="128" height="128" alt="square-that-circle-logo" src="https://github.com/user-attachments/assets/d650c406-c6ef-4dbd-a34d-527da25e25ab" />
+ 
+# Square that Circle 
+
 
 We build practical tools that break free from legacy constraints.
 
